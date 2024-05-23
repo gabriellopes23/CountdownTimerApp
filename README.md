@@ -1,9 +1,6 @@
-<p align="center">
-  <video width="320" height="240" controls>
-    <source src="https://github.com/gabriellopes23/CountdownTimerApp/assets/121827829/ef52836a-5538-4ae9-83ee-4f07d17ba0ac" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+
+https://github.com/gabriellopes23/CountdownTimerApp/assets/121827829/ef52836a-5538-4ae9-83ee-4f07d17ba0ac
+
 
 <p align="center">
   <img src="https://github.com/gabriellopes23/CountdownTimerApp/assets/121827829/d4004650-1ba3-4f55-8ccf-2a53acc1411a" alt="Captura de Tela 2024-05-18 às 12 34 00" width="200"/>
